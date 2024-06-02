@@ -5,7 +5,7 @@ export default function Privacy() {
             <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for CostaV</h1>
             <p className="text-sm text-white/30 mb-4">Last Update: 02/06/2024  🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
-        <p>⊳ To use the CostaV bot, you must define the necessary permissions when adding it to your discord server. <a className="text-white">(READ MESSAGES, SEND MESSAGES, EMBED LINKS, ATTACH FILES, READ MESSAGE HISTORY, CONNECT, SPEAK, USE VOICE ACTIVITY, PRIORITY SPEAKER)</a></p>
+        <p>⊳ To use the CostaV bot, you must define the necessary permissions when adding it to your discord server. <a className="text-white">(Administrator)</a></p>
         <div className="py-3"></div>
         <p>⊳ You have to vote for the <a className="text-white" href="https://top.gg/bot/1244620556641239060">CostaV</a> bot when using certain commands from the bot commands.</p>
         <div className="py-3"></div>
